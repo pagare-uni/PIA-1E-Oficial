@@ -2,6 +2,11 @@
 1er Entregable - Proyecto Final de Ciberseguridad: Módulos de PowerShell y GitHub 
 
 
+IMPORTANTE LEER:
+Al ejecutar el script los parametros que se mencionan al inicio hace referencia a 
+LA RUTA DE LOS MODULOS que se usan en el mismo
+
+
 Fuentes bibliograficas :
 
 -https://lazywinadmin.com/2014/01/powershell-tip-adding-help-in-param.html
