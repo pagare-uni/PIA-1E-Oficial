@@ -27,4 +27,6 @@ Fuentes bibliograficas :
 
 -https://learn.microsoft.com/es-es/powershell/scripting/samples/getting-wmi-objects--get-ciminstance-?view=powershell-7.4
 
+-https://learn.microsoft.com/es-es/powershell/module/microsoft.powershell.utility/measure-object?view=powershell-7.4
+
 -
