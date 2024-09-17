@@ -29,4 +29,8 @@ Fuentes bibliograficas :
 
 -https://learn.microsoft.com/es-es/powershell/module/microsoft.powershell.utility/measure-object?view=powershell-7.4
 
+-https://learn.microsoft.com/es-es/powershell/scripting/learn/deep-dives/everything-about-pscustomobject?view=powershell-7.4
+
+-https://learn.microsoft.com/es-es/powershell/module/microsoft.powershell.core/about/about_pscustomobject?view=powershell-7.4
+
 -
