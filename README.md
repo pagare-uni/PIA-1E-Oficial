@@ -33,4 +33,6 @@ Fuentes bibliograficas :
 
 -https://learn.microsoft.com/es-es/powershell/module/microsoft.powershell.core/about/about_pscustomobject?view=powershell-7.4
 
+-https://learn.microsoft.com/es-es/powershell/scripting/developer/cmdlet/validateset-attribute-declaration?view=powershell-7.4
+
 -
