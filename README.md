@@ -35,4 +35,6 @@ Fuentes bibliograficas :
 
 -https://learn.microsoft.com/es-es/powershell/scripting/developer/cmdlet/validateset-attribute-declaration?view=powershell-7.4
 
+-https://learn.microsoft.com/es-es/dotnet/api/system.string.tolower?view=net-8.0
+
 -
