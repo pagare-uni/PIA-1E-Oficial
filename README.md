@@ -23,3 +23,4 @@ Fuentes bibliograficas :
 
 -https://learn.microsoft.com/es-es/dotnet/api/system.security.accesscontrol.filesystemrights?view=net-8.0
 
+-https://learn.microsoft.com/es-es/powershell/module/microsoft.powershell.core/set-strictmode?view=powershell-7.4
