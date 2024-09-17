@@ -3,8 +3,10 @@
 
 
 IMPORTANTE LEER:
-Al ejecutar el script los parametros que se mencionan al inicio hace referencia a 
-LA RUTA DE LOS MODULOS que se usan en el mismo
+-Al ejecutar el script los parámetros que se mencionan al inicio hace referencia a 
+LA RUTA DE LOS MODULOS que se usan en el mismo.
+
+-Es necesario colocar una APIKey válida para el módulo "Hash_Check.psm1". Para generar una basta con crear una cuenta en el sitio de VirusTotal y acceder al apartado de API Key en el perfil que el usuario.
 
 
 Fuentes bibliograficas :
