@@ -11,6 +11,8 @@ LA RUTA DE LOS MODULOS que se usan en el mismo.
 
 Fuentes bibliograficas :
 
+POWERSHELL
+
 -https://lazywinadmin.com/2014/01/powershell-tip-adding-help-in-param.html
 
 -https://learn.microsoft.com/es-es/powershell/module/microsoft.powershell.core/get-help?view=powershell-7.4
@@ -38,3 +40,9 @@ Fuentes bibliograficas :
 -https://learn.microsoft.com/es-es/powershell/scripting/developer/cmdlet/validateset-attribute-declaration?view=powershell-7.4
 
 -https://learn.microsoft.com/es-es/dotnet/api/system.string.tolower?view=net-8.0
+
+------------------------------------------------------------------
+
+BASH
+
+
